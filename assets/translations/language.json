@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "language": "English",
+      "icon": "assets/flags/ic_uk.png",
+      "languageCode": "en"
+    },
+    {
+      "language": "Arebic",
+      "icon": "assets/flags/ic_uae.png",
+      "languageCode": "ar"
+    },
+    {
+      "language": "Marathi",
+      "icon": "assets/flags/ic_india.png",
+      "languageCode": "mr"
+    },
+    {
+      "language": "Hindi",
+      "icon": "assets/flags/ic_india.png",
+      "languageCode": "hi"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "1025506295239",
+    "firebase_url": "https://groshop-e2c6c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "groshop-e2c6c",
+    "storage_bucket": "groshop-e2c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025506295239:android:5980e9f882f08b2f4aade2",
+        "android_client_info": {
+          "package_name": "com.groshop.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025506295239-205nqabintnnudg2j0ki7vk1865c2i6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groshop.deliveryapp",
+            "certificate_hash": "826b405f9e743c0776d477781dd8edca8ec0d343"
+          }
+        },
+        {
+          "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9OxINBJbViEhDfrxMI-HP5HY6joXzW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025506295239-0h2oklampelo4s7uq3m993psmvn99sb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groshop.restaurantapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025506295239:android:f0cbac109da938594aade2",
+        "android_client_info": {
+          "package_name": "com.groshop.groshopandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9OxINBJbViEhDfrxMI-HP5HY6joXzW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025506295239-0h2oklampelo4s7uq3m993psmvn99sb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groshop.restaurantapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025506295239:android:216c5170e33283df4aade2",
+        "android_client_info": {
+          "package_name": "com.groshop.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025506295239-nah22lonfb2di26hi54r1k817mvct78s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groshop.restaurantapp",
+            "certificate_hash": "826b405f9e743c0776d477781dd8edca8ec0d343"
+          }
+        },
+        {
+          "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9OxINBJbViEhDfrxMI-HP5HY6joXzW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025506295239-0h2oklampelo4s7uq3m993psmvn99sb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groshop.restaurantapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025506295239:android:c5a498b3c680c9284aade2",
+        "android_client_info": {
+          "package_name": "com.groshop.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025506295239-6n1ougicjht8e223d13dct7meektppqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groshop.userapp",
+            "certificate_hash": "826b405f9e743c0776d477781dd8edca8ec0d343"
+          }
+        },
+        {
+          "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9OxINBJbViEhDfrxMI-HP5HY6joXzW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025506295239-1lnlbik7v0cda1shko81rnj7bqkvjo82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025506295239-0h2oklampelo4s7uq3m993psmvn99sb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groshop.restaurantapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
